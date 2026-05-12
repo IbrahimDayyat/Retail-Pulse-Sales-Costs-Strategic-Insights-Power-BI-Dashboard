@@ -1,78 +1,59 @@
-# Retail-Pulse-Sales-Costs-Strategic-Insights-Power-BI-Dashboard
-A Power BI dashboard analyzing retail performance, revealed Clothing (33% of sales) as the top driver and Electronics (12%) as underperforming. Identified rising costs (+20% rent/wages) and optimized CORE store efficiency. Enabled data-driven strategies for cost control and revenue growth.
+# 🛍️ Retail Pulse: Sales, Costs & Strategic Insights
 
-**Project Details:
-Objective:**
+> From data chaos to strategic clarity — a retail analytics roadmap.
 
-Uncover actionable insights into retail sales, costs, and departmental performance to drive strategic decision-making.
+## 📌 Project Overview
 
-**Key Contributions:**
+A comprehensive Power BI analytics project analyzing retail performance across multiple store types (CORE, DIGITAL, LOCAL), departments, and regions over a **3-year period (2020–2022)**. This project combines technical rigor with business acumen to deliver a retail strategy roadmap — not just a dashboard.
 
-**Data Gathering, Cleaning & Validation**:
+**Total portfolio analyzed: $4.05B in sales data.**
 
-Connect data files from different sources (Excel and CSV). Part of the Corporate Finance Institute Specialization.  
+---
 
-Validated totals to ensure accuracy (e.g., $4.05B sales aligned across metrics).
+## 🎯 Business Problem
 
-**Interactive Dashboards:**
+The business faced stagnant sales growth (+0% since 2020) while operational costs were rising significantly (+20% rent and wages). Leadership needed to understand which departments, store types, and regions were driving — or dragging — performance.
 
-Built 3 interconnected dashboards tracking sales KPIs, costs, and departmental/store-type performance.
+---
 
-Designed drill-downs for time trends (2020–2022) and department-store linkages.
+## 🔧 Approach & Methodology
 
-**DAX Formulas & Calculations:**
+| Step | Description |
+|------|-------------|
+| Data Integration | Connected Excel and CSV sources; validated $4.05B totals across all metrics |
+| Dashboard Architecture | Built 3 interconnected dashboards: Sales KPIs, Cost Analysis, Department Performance |
+| DAX Engineering | Created custom metrics: Sales per $1 Rent, Cumulative Difference from Target, YoY growth |
+| Root Cause Analysis | Applied geographic and departmental filters to isolate underperformers |
 
-Created metrics like Sales per $1 Rent and Cumulative Difference from Target.
+---
 
-Automated YoY growth calculations for cost and sales trends.
+## 💡 Key Insights
 
-**Technical Execution:**
+- 👗 **Top Performer**: Clothing drove **33% of total sales** — primary growth lever
+- 📺 **Underperformer**: Electronics contributed only **12%** — below potential
+- 📉 **Critical Gap**: Nevada identified as worst performing region with **-$82M gap** vs target
+- 💰 **Cost Alert**: Rising rent (+20%) and wages eroding margins across DIGITAL/LOCAL stores
+- 🏆 **Overperformance**: **$240M aggregate overperformance** against targets in top regions
+- 🔗 **Cross-sell Opportunity**: Electronics + Clothing bundling identified as revenue growth lever
 
-**Visualizations:**
+---
 
-Matrix visuals comparing department performance across store types (CORE, DIGITAL, LOCAL).
+## 🛠️ Tools & Technologies
 
-Scatter plots to correlate rent/wages with sales efficiency.
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-Time-series charts with moving averages to highlight trends.
+---
 
-**Root-Cause Analysis:**
+---
 
-Identified Nevada as a critical underperformer (-$82M gap) through geographic and departmental filters.
+## 👤 Author
 
-Linked stagnant sales growth (+0% since 2020) to rising operational costs.
+**Ibrahim Dayyat** — Management Consultant & Data Analytics Specialist
 
-**Insights & Impact:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a2463?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-dayyat-a6119947)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2ecc71?style=flat-square&logo=databricks&logoColor=white)](https://www.datascienceportfol.io/ibrahimdayyat)
 
-**Strategic Recommendations:**
-
-Redirected marketing budgets to the Clothing and Kitchen departments.
-
-Proposed cost audits for high-rent stores (e.g., Arizona, Texas).
-
-Suggested bundling Electronics with Clothing to boost cross-selling.
-
-**Business Impact:**
-
-Highlighted $240M aggregate overperformance against targets.
-
-Prioritized closure/reallocation of underperforming DIGITAL/LOCAL stores.
-
-**Tools & Technologies:**
-
-Power BI | DAX | Data Modeling | Excel | Strategic Storytelling
-
-
-
-
-**Why It Stands Out**:
-Combined technical rigor (DAX, data cleaning) with business acumen to turn raw data into a retail strategy roadmap. Perfect for showcasing analytical and problem-solving skills!
-
-
-
-
-
-
-
-
-
+## 📁 Repository Structure
